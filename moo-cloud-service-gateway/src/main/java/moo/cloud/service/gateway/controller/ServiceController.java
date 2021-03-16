@@ -19,8 +19,8 @@ public class ServiceController {
         dummy.put("uuid", "1001");
         dummy.put("username", "houbj");
         dummy.put("name", "侯宝健");
-        dummy.put("age", "28");
-        dummy.put("address", "沈阳市浑南区");
+        dummy.put("age", "30");
+        dummy.put("address", "沈阳市浑南区新秀街2号");
         dummy.put("school", "工大");
         dummy.put("sex", "0");
 
