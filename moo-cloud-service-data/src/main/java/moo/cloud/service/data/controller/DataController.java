@@ -19,7 +19,7 @@ public class DataController {
         Map<String, String> dummy = new HashMap<String, String>();
         dummy.put("uuid", "1001");
         dummy.put("name", "商用事业部");
-        dummy.put("address", "东软软件园");
+        dummy.put("address", "东软软件园A6");
 
         Map<String, Object> m = new HashMap<String, Object> ();
         m.put("code", "0");
